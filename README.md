@@ -117,4 +117,6 @@ Mourad - [GitHub](https://github.com/mouradism)
 
 ## Acknowledgments
 
-Inspired by binary computing principles and CPU architecture design.
+Inspired by binary computing principles and CPU architecture design 8-bit compute // Ben Eater
+
+https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
