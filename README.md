@@ -1,4 +1,5 @@
 # BENCPU - Binary CPU Emulator
+<img width="562" height="885" alt="image" src="https://github.com/user-attachments/assets/0b73eda1-5428-4681-b469-ad22f800389d" />
 
 A C++ based CPU emulator project that simulates basic CPU components including buses, counters, and signal management.
 
